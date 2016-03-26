@@ -10,3 +10,4 @@ github_username:  sodep
 
 # Build settings
 markdown: kramdown
+keep_files:             ["css"]
