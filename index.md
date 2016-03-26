@@ -1,6 +1,5 @@
 ---
-layout: post
-title: Joko - Framework Web y Mobile 
+layout: default
 ---
 Bienvenidos a Joko
 ===================
