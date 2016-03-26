@@ -9,15 +9,15 @@ Parte de todo desarrollo informático, es seleccionar las tecnologías con que s
 
 En [Sodep](http://www.sodep.com.py) venimos trabajando en  estandarizar nuestros proyectos sobre una arquitectura común, es decir definir el framework de desarrollo de Sodep para proyectos `{web,mobile,microservices, *}`.
 
-La versión 0.1 es básicamente un merge de los stacks utilizados en los proyectos más recientes de Sodep.
-
-Buscamos con esto que los avances sean para beneficio de todos los proyectos en curso o por venir, y de todos los que deseen compartir con nosotros Joko.
-
 Al framework lo bautizamos con el codename: **Joko**.
 
 En guaraní significa "sujetar", (la pronunciación es como una palabra aguda en castellano: jokó);  tiene el plus que tiene la J de Java, tecnología principal para el desarrollo de backends,  es pronunciable en Inglés, y se adecua bastante a la tarea más dura que tiene un framework:
 
 >Sujetar todo para que funcionen las diferentes tecnologías juntas.
+
+La versión 0.1 es básicamente un merge de los stacks utilizados en nuestros proyectos más recientes.
+
+Buscamos con esto que los avances sean para beneficio de todos los proyectos en curso o por venir, y de todos los que deseen compartir con nosotros Joko.
 
 Para la primera versión, tenemos contemplados las siguientes categorías:
 
