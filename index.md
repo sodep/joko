@@ -2,6 +2,8 @@
 layout: default
 ---
 
+{% include home-banner.html %}
+
 Bienvenidos a Joko
 ===================
 
