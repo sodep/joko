@@ -3,7 +3,7 @@ title: Joko Framework
 email: github@sodep.com.py
 description: > # this means to ignore newlines until "baseurl:"
   Framework basado en Spring Boot y proyectos lightweighted Javascript, HTML5 y CSS3, orientado a aplicaciones web y mobile.
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "/joko/" # the subpath of your site, e.g. /blog/
 url: "http://sodep.github.io" # the base hostname & protocol for your site
 twitter_username: sodepsa
 github_username:  sodep
