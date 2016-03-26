@@ -1,27 +1,12 @@
+# Site settings
 title: Joko Framework
-description: "Framework para aplicaciones web y mobile"
-repository: https://github.com/sodep/joko
+email: github@sodep.com.py
+description: > # this means to ignore newlines until "baseurl:"
+  Framework basado en Spring Boot y proyectos lightweighted Javascript, HTML5 y CSS3, orientado a aplicaciones web y mobile.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://sodep.github.io" # the base hostname & protocol for your site
+twitter_username: sodepsa
+github_username:  sodep
 
 # Build settings
-baseurl:                /joko # the subpath of your site, e.g. /blog/
-url:                    https://sodep.github.io # the base hostname & protocol for your site
-markdown:               redcarpet
-redcarpet:
-  extensions:           ["with_toc_data", "tables", "disable_indented_code_blocks", "no_intra_emphasis"]
-highlighter:            pygments
-permalink:              pretty
-exclude:
-  - README.md
-  - CNAME
-  - Gemfile
-  - Gruntfile.js
-  - package.json
-  - node_modules
-keep_files:             ["css"]
-
-# Front matter defaults
-defaults:
-  - scope:
-      path: "" # an empty string here means all files in the project
-    values:
-      layout: default
+markdown: kramdown

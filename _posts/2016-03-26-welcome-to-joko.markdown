@@ -1,11 +1,9 @@
 ---
-layout: default
+layout: post
+title:  "¡Bienvenido a Joko!"
+date:   2016-03-26 15:43:41
+categories: joko update
 ---
-
-{% include home-banner.html %}
-
-Bienvenidos a Joko
-===================
 
 Parte de todo desarrollo informático, es seleccionar las tecnologías con que se trabajará en los distintos ambientes en donde se utilizará la aplicación/proyecto, sea para las tecnologías de backend como para las que son utilizadas en una interfaz de usuario (UI). 
 
