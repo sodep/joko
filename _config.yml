@@ -1,10 +1,10 @@
-title: Liquid Templating Engine
-description: "Liquid is a template language and accompanying rendering engine. It is built for security, so is perfect for rendering custom templates from your users."
-repository: https://github.com/Shopify/liquid
+title: Joko Framework
+description: "Framework para aplicaciones web y mobile"
+repository: https://github.com/sodep/joko
 
 # Build settings
-baseurl:                /liquid # the subpath of your site, e.g. /blog/
-url:                    https://shopify.github.io # the base hostname & protocol for your site
+baseurl:                /joko # the subpath of your site, e.g. /blog/
+url:                    https://sodep.github.io # the base hostname & protocol for your site
 markdown:               redcarpet
 redcarpet:
   extensions:           ["with_toc_data", "tables", "disable_indented_code_blocks", "no_intra_emphasis"]
