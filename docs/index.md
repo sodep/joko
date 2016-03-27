@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  "Guías de utilización"
 categories: joko modulos
 ---

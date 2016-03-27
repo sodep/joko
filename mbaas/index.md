@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  "Mobile backend as a service"
 categories: joko modulos
 ---

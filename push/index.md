@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  "Multi tenant push notification"
 categories: joko modulos
 ---

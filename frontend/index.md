@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  "Front End Web"
 categories: joko modulos
 ---

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  "Devops"
 date:   2016-03-27 16:00:41
 categories: joko update

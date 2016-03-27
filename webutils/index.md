@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  "Utilidades comunes WEB"
 categories: joko modulos
 ---

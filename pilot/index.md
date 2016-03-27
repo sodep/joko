@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  "Proyecto Piloto"
 categories: joko modulos
 ---
