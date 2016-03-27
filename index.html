@@ -4,7 +4,8 @@ layout: default
 
 <div class="home">
 
-  <p>Joko (pronunciado jokó en castellano) es un framework basado en Spring Boot y proyectos lightweighted Javascript, HTML5 y CSS3, orientado a aplicaciones web y mobile. </p>
+{% capture my-include %}{% include index-include.md %}{% endcapture %}
+{{ my-include | markdownify }}
 
   <h1 class="page-heading">Posts</h1>
 
